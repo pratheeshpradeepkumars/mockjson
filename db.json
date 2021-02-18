@@ -2,34 +2,46 @@
   "suggestions": [
     {
       "suggestion_key": {
-        "suggestion": "Parent 1"
+        "suggestion": "Shopping"
       },
       "children": [
         {
           "suggestion_key": {
-            "suggestion": "Parent 1 Child 1"
-          }
+            "suggestion": "Groceries"
+          },
+          "children": [
+            {
+              "suggestion_key": {
+                "suggestion": "Milk"
+              }
+            },
+            {
+              "suggestion_key": {
+                "suggestion": "Rice"
+              }
+            }
+          ]
         },
         {
           "suggestion_key": {
-            "suggestion": "Parent 1 Child 2"
+            "suggestion": "vegetables"
           }
         }
       ]
     },
     {
       "suggestion_key": {
-        "suggestion": "Parent 2"
+        "suggestion": "Office"
       },
       "children": [
         {
           "suggestion_key": {
-            "suggestion": "Parent 2 Child 1"
+            "suggestion": "A4 Paper"
           }
         },
         {
           "suggestion_key": {
-            "suggestion": "Parent 2 Child 2"
+            "suggestion": "Binds"
           }
         }
       ]
