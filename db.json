@@ -1,0 +1,12 @@
+{
+  suggestions: [
+          {
+            suggestion_key:{suggestion: "Parent 1"},
+            children:[{suggestion_key:{suggestion: "Parent 1 Child 1"}},{suggestion_key:{suggestion: "Parent 1 Child 2"}]
+          },
+          {
+            suggestion_key:{suggestion: "Parent 2"},
+            children:[{suggestion_key:{suggestion: "Parent 2 Child 1"}},{suggestion_key:{suggestion: "Parent 2 Child 2"}]
+          }
+  ]
+}
